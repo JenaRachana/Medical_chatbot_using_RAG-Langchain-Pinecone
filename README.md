@@ -1,6 +1,6 @@
 # Medical_chatbot_using_RAG-Langchain-Pinecone
 
-# Medical Chatbot Using RAG, LangChain & Pinecone
+
 
 A medical question-answering chatbot built using Retrieval-Augmented Generation (RAG) that uses LangChain for orchestration and Pinecone as a vector database. This project ingests medical documents, embeds them, and provides context-aware answers using an LLM.
 
